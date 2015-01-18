@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GraphicsLab1
+namespace GraphicsMatrixRotationLab1
 {
     class cVector
     {

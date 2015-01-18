@@ -1,1 +1,9 @@
 C:\Users\Clay\Documents\GitHub\Graphics\GraphicsLab1\GraphicsLab1\bin\Debug\GraphicsLab1.exe.config
+C:\Users\Clay\Documents\GitHub\Graphics\GraphicsLab1\GraphicsLab1\bin\Debug\GraphicsLab1.exe
+C:\Users\Clay\Documents\GitHub\Graphics\GraphicsLab1\GraphicsLab1\bin\Debug\GraphicsLab1.pdb
+C:\Users\Clay\Documents\GitHub\Graphics\GraphicsLab1\GraphicsLab1\obj\Debug\GraphicsLab1.csprojResolveAssemblyReference.cache
+C:\Users\Clay\Documents\GitHub\Graphics\GraphicsLab1\GraphicsLab1\obj\Debug\GraphicsLab1.Properties.Resources.resources
+C:\Users\Clay\Documents\GitHub\Graphics\GraphicsLab1\GraphicsLab1\obj\Debug\GraphicsLab1.csproj.GenerateResource.Cache
+C:\Users\Clay\Documents\GitHub\Graphics\GraphicsLab1\GraphicsLab1\obj\Debug\GraphicsLab1.exe
+C:\Users\Clay\Documents\GitHub\Graphics\GraphicsLab1\GraphicsLab1\obj\Debug\GraphicsLab1.pdb
+C:\Users\Clay\Documents\GitHub\Graphics\GraphicsLab1\GraphicsLab1\obj\Debug\GraphicsLab1.Form1.resources
