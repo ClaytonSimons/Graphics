@@ -43,10 +43,12 @@ namespace GraphicsMatrixRotationLab1
         /// <summary>
         /// Returns the addition lhs + rhs.
         /// </summary>
-        /// <param name="lhs"></param>
+        /// <param name="lhs">
         /// Left hand vector.
-        /// <param name="rhs"></param>
+        /// </param>
+        /// <param name="rhs">
         /// Right hand vector.
+        /// </param>
         /// <returns></returns>
         public static cVector operator +(cVector lhs, cVector rhs)
         {
@@ -56,10 +58,12 @@ namespace GraphicsMatrixRotationLab1
         /// <summary>
         /// Returns the addition lhs + rhs.
         /// </summary>
-        /// <param name="lhs"></param>
+        /// <param name="lhs">
         /// Left hand vector.
-        /// <param name="rhs"></param>
+        /// </param>
+        /// <param name="rhs">
         /// Right hand scalar.
+        /// </param>
         /// <returns></returns>
         public static cVector operator +(cVector lhs, double rhs)
         {
@@ -69,10 +73,12 @@ namespace GraphicsMatrixRotationLab1
         /// <summary>
         /// Returns the subtraction lhs - rhs.
         /// </summary>
-        /// <param name="lhs"></param>
+        /// <param name="lhs">
         /// Left hand vector.
-        /// <param name="rhs"></param>
+        /// </param>
+        /// <param name="rhs">
         /// Right hand vector.
+        /// </param>
         /// <returns></returns>
         public static cVector operator -(cVector lhs, cVector rhs)
         {
@@ -82,10 +88,12 @@ namespace GraphicsMatrixRotationLab1
         /// <summary>
         /// Returns the subtraction lhs - rhs.
         /// </summary>
-        /// <param name="lhs"></param>
+        /// <param name="lhs">
         /// Left hand vector.
-        /// <param name="rhs"></param>
+        /// </param>
+        /// <param name="rhs">
         /// Right hand scalar.
+        /// </param>
         /// <returns></returns>
         public static cVector operator -(cVector lhs, double rhs)
         {
@@ -95,10 +103,12 @@ namespace GraphicsMatrixRotationLab1
         /// <summary>
         /// Returns the multiplication lhs * rhs.
         /// </summary>
-        /// <param name="lhs"></param>
+        /// <param name="lhs">
         /// Left hand vector.
-        /// <param name="rhs"></param>
+        /// </param>
+        /// <param name="rhs">
         /// Right hand vector.
+        /// </param>
         /// <returns></returns>
         public static cVector operator *(cVector lhs, cVector rhs)
         {
@@ -108,10 +118,12 @@ namespace GraphicsMatrixRotationLab1
         /// <summary>
         /// Returns the Multiplication lhs * rhs.
         /// </summary>
-        /// <param name="lhs"></param>
+        /// <param name="lhs">
         /// Left hand vector.
-        /// <param name="rhs"></param>
+        /// </param>
+        /// <param name="rhs">
         /// Right hand scalar.
+        /// </param>
         /// <returns></returns>
         public static cVector operator *(cVector lhs, double rhs)
         {
@@ -121,10 +133,12 @@ namespace GraphicsMatrixRotationLab1
         /// <summary>
         /// Returns the division of lhs / rhs
         /// </summary>
-        /// <param name="lhs"></param>
+        /// <param name="lhs">
         /// Left hand vector.
-        /// <param name="rhs"></param>
+        /// </param>
+        /// <param name="rhs">
         /// Right hand scalar.
+        /// </param>
         /// <returns></returns>
         public static cVector operator /(cVector lhs, double rhs)
         {
@@ -137,10 +151,12 @@ namespace GraphicsMatrixRotationLab1
         /// <summary>
         /// Returns a vector with direction of lhs and magnitude of rhs.
         /// </summary>
-        /// <param name="lhs"></param>
-        /// left hand vector.
-        /// <param name="rhs"></param>
-        /// right hand vector.
+        /// <param name="lhs">
+        /// Left hand vector.
+        /// </param>
+        /// <param name="rhs">
+        /// Right hand scalar.
+        /// </param>
         /// <returns></returns>
         public static cVector operator |(cVector lhs, double rhs)//returns a vector with direction of lhs and magnitude of rhs
         {
@@ -149,10 +165,12 @@ namespace GraphicsMatrixRotationLab1
         /// <summary>
         /// Returns the cross product of this and parameter.
         /// </summary>
-        /// <param name="lhs"></param>
+        /// <param name="lhs">
         /// Left hand vector.
-        /// <param name="rhs"></param>
+        /// </param>
+        /// <param name="rhs">
         /// Right hand vector.
+        /// </param>
         /// <returns></returns>
         public static cVector operator ^(cVector lhs, cVector rhs)
         {
@@ -162,10 +180,12 @@ namespace GraphicsMatrixRotationLab1
         /// <summary>
         /// Returns the dot product of lhs and rhs.
         /// </summary>
-        /// <param name="lhs"></param>
+        /// <param name="lhs">
         /// Left hand vector.
-        /// <param name="rhs"></param>
+        /// </param>
+        /// <param name="rhs">
         /// Right hand vector.
+        /// </param>
         /// <returns></returns>
         public static double operator %(cVector lhs, cVector rhs)
         {
@@ -175,8 +195,9 @@ namespace GraphicsMatrixRotationLab1
         /// <summary>
         /// Returns the magnitude of this vector to the rhs.
         /// </summary>
-        /// <param name="rhs"></param>
-        /// right hand vector.
+        /// <param name="rhs">
+        /// Right hand vector.
+        /// </param>
         /// <returns></returns>
         public static double operator !(cVector rhs)
         {
@@ -185,8 +206,9 @@ namespace GraphicsMatrixRotationLab1
         /// <summary>
         /// Returns negative vector.
         /// </summary>
-        /// <param name="rhs"></param>
-        /// right hand vector.
+        /// <param name="rhs">
+        /// Right hand vector.
+        /// </param>
         /// <returns></returns>
         public static cVector operator -(cVector rhs)//negative
         {

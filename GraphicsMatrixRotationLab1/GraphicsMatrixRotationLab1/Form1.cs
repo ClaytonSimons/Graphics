@@ -16,7 +16,7 @@ namespace GraphicsMatrixRotationLab1
         {
             InitializeComponent();
         }
-
+        //Main function that uses Matrix4 class to calculate answers.
         private void submitBtn_Click(object sender, EventArgs e)
         {
             if (AllFilled())
@@ -62,6 +62,7 @@ namespace GraphicsMatrixRotationLab1
                 pointAnswerzTxt.Text = panswer.z.ToString();
             }
         }
+        //Checks if the entry fields are filled.
         private bool AllFilled()
         {
             bool answer = false;

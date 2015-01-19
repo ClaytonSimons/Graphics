@@ -1,9 +1,0 @@
-C:\Users\Clay\Documents\GitHub\Graphics\GraphicsMatrixRotationLab1\GraphicsMatrixRotationLab1\bin\Debug\GraphicsMatrixRotationLab1.exe.config
-C:\Users\Clay\Documents\GitHub\Graphics\GraphicsMatrixRotationLab1\GraphicsMatrixRotationLab1\obj\Debug\GraphicsMatrixRotationLab1.csprojResolveAssemblyReference.cache
-C:\Users\Clay\Documents\GitHub\Graphics\GraphicsMatrixRotationLab1\GraphicsMatrixRotationLab1\obj\Debug\GraphicsMatrixRotationLab1.Form1.resources
-C:\Users\Clay\Documents\GitHub\Graphics\GraphicsMatrixRotationLab1\GraphicsMatrixRotationLab1\obj\Debug\GraphicsMatrixRotationLab1.Properties.Resources.resources
-C:\Users\Clay\Documents\GitHub\Graphics\GraphicsMatrixRotationLab1\GraphicsMatrixRotationLab1\obj\Debug\GraphicsMatrixRotationLab1.csproj.GenerateResource.Cache
-C:\Users\Clay\Documents\GitHub\Graphics\GraphicsMatrixRotationLab1\GraphicsMatrixRotationLab1\bin\Debug\GraphicsMatrixRotationLab1.exe
-C:\Users\Clay\Documents\GitHub\Graphics\GraphicsMatrixRotationLab1\GraphicsMatrixRotationLab1\bin\Debug\GraphicsMatrixRotationLab1.pdb
-C:\Users\Clay\Documents\GitHub\Graphics\GraphicsMatrixRotationLab1\GraphicsMatrixRotationLab1\obj\Debug\GraphicsMatrixRotationLab1.exe
-C:\Users\Clay\Documents\GitHub\Graphics\GraphicsMatrixRotationLab1\GraphicsMatrixRotationLab1\obj\Debug\GraphicsMatrixRotationLab1.pdb
